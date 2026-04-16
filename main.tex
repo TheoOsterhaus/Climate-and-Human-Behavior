@@ -1,0 +1,80 @@
+\documentclass{beamer}
+\usetheme{Boadilla}
+
+\usepackage[backend=biber, style=authoryear, sorting=nty]{biblatex}
+\usepackage{amsmath, amssymb, amsthm, mathtools}
+\usepackage{bm}
+\usepackage{physics}
+\usepackage{cleveref}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+\addbibresource{references.bib}
+
+\setcounter{tocdepth}{2}
+
+
+\title[Misperceived Social Norms and
+Willingness to Act Against Climate Change]{Misperceived Social Norms and
+Willingness to Act Against Climate Change}
+\subtitle{Based on Andre, Boneva, Chopra and Peter (2024)}
+\author[Theo Osterhaus]{Theo Osterhaus, 7443693}
+\date[22.01.2025]{Climate and Human Behavior, SoSe 2026}
+\institute[WiSo]{
+  Department of Economics\\
+  Universität zu Köln
+}
+
+
+
+\begin{document}
+
+\frame{\titlepage}
+
+
+
+\begin{frame}{Outline}
+    \tableofcontents
+\end{frame}
+
+
+\section{Introduction}
+\begin{frame}{Year 2026}
+    \begin{itemize}
+        \item \textbf{Data Availability:} Firms \cite{10.1162/rest_a_01468}
+        
+        \begin{itemize}
+            \item Unlike early disclosure theories
+        \end{itemize}
+    \end{itemize}
+\end{frame}
+
+
+
+
+
+
+
+\section*{Bibliography}
+\begin{frame}{Bibliography}
+    \printbibliography
+\end{frame}
+    
+\appendix
+\section*{Appendix}
+
+\begin{frame}{Formal Definition: PBE} \label{PBE}
+    \textbf{Perfect Bayesian Equilibrium (PBE)} requires:
+    \vspace{0.2cm}
+    \begin{enumerate}
+        \item \textbf{Sequential Rationality:} 
+        At every information set, players choose strategies that maximise their expected payoffs, given their beliefs and the strategies of others.
+        
+        \item \textbf{Consistency of Beliefs:} 
+        Beliefs ($\mu$) are derived from equilibrium strategies using Bayes' Rule wherever possible.
+    \end{enumerate}
+\end{frame}
+
+
+\end{document}
