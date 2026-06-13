@@ -1,30 +1,3 @@
-## Presentation Structure
-
-| Slide | Section | Content |
-|---|---|---|
-| 1 | — | Title slide |
-| 2 | — | Outline |
-| 3 | Motivation | Humanity's Greatest Threat: GDP losses, free-rider problem |
-| 4 | Motivation | Positioning: Impact & connection to Nature paper |
-| 5 | Motivation | Research Questions (3 RQs) |
-| 6 | Study Design | Sample & measurement approach |
-| 7 | Study Design | Sample characteristics vs. US population (Table A.1) |
-| 8 | Study Design | Wave 1: Donation decision (atmosfair) |
-| 9 | Study Design | Wave 1: Behaviour determinants & norm measures |
-| 10 | Study Design | Wave 2: Information experiment overview (PAP) |
-| 11 | Study Design | Wave 2: Information treatments (Figure B.5) |
-| 12 | Results | Heterogeneity in willingness to fight global warming |
-| 13 | Results | Determinants of climate behaviour (Table 1) |
-| 14–16 | Results | Misperception of norms & causal treatment effects |
-| 17 | Results | Treatment effect heterogeneity: prior < actual (Table 3) |
-| 18 | Results | Heterogeneity: reducing polarisation (Figure) |
-| 19 | Backup | Treatment effects on policy support & activism (Table 4) |
-| 20 | Conclusion | Summary & policy implications |
-| 21 | Backup | Key problems of the RCT design |
-| 22–23 | — | Bibliography (I & II) |
-
----
-
 ## Paper Summary
 
 ### Research Questions
