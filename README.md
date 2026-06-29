@@ -1,4 +1,14 @@
-## Paper Summary
+![Status](https://img.shields.io/badge/Status-Abgeschlossen-green)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex)
+![Kurs](https://img.shields.io/badge/Kurs-Climate%20and%20Human%20Behavior-blue)
+
+# Misperceived Social Norms and Willingness to Act Against Climate Change
+
+> **Typ:** Seminarpräsentation  
+> **Kurs:** Climate and Human Behavior  
+> **Autor:** Theo Osterhaus  
+> **Jahr:** 2025  
+> **Paper:** Bergquist & Nilsson (2024) – ReStat  
 
 ### Research Questions
 
